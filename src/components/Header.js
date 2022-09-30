@@ -14,9 +14,6 @@ const Header = () => {
           <li>
             <Link to="/blog" >ブログ</Link>
           </li>
-          <li>
-            <Link to="/" >SNS</Link>
-          </li>
         </ul>
       </nav>
   </header>;
