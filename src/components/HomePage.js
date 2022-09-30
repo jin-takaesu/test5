@@ -85,9 +85,6 @@ const HomePage = () => {
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis, veniam.</p>
             </div>
           </div>
-          <button type="button" class="btn btn-primary">
-            more
-          </button>
         </div>
       </section>
     </div>
